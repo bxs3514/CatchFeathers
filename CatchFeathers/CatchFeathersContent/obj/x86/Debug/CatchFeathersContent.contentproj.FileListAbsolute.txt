@@ -1,0 +1,2 @@
+c:\users\bxs\documents\visual studio 2013\Projects\c#\CatchFeathers\CatchFeathers\CatchFeathersContent\obj\x86\Debug\CatchFeathersContent.contentprojResolveAssemblyReference.cache
+C:\Users\bxs\Dropbox\MyProjects\CatchFeathers\CatchFeathers\CatchFeathersContent\obj\x86\Debug\CatchFeathersContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchFeathers", "CatchFeathers\CatchFeathers\CatchFeathers.csproj", "{5F796ADE-7763-4F59-AEE6-045F26943271}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CatchFeathersContent", "CatchFeathers\CatchFeathersContent\CatchFeathersContent.contentproj", "{3B1A6FF8-7D36-4ADC-996B-4168D3D5F117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F796ADE-7763-4F59-AEE6-045F26943271}.Debug|x86.ActiveCfg = Debug|x86
+		{5F796ADE-7763-4F59-AEE6-045F26943271}.Debug|x86.Build.0 = Debug|x86
+		{5F796ADE-7763-4F59-AEE6-045F26943271}.Release|x86.ActiveCfg = Release|x86
+		{5F796ADE-7763-4F59-AEE6-045F26943271}.Release|x86.Build.0 = Release|x86
+		{3B1A6FF8-7D36-4ADC-996B-4168D3D5F117}.Debug|x86.ActiveCfg = Debug|x86
+		{3B1A6FF8-7D36-4ADC-996B-4168D3D5F117}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
