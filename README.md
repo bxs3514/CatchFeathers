@@ -1,7 +1,7 @@
 CatchFeathers
 =============
 
-A 2D survive game based on XNA4.0
+A 2D survive game based on XNA4.0 (***Need <a href = "http://www.microsoft.com/en-us/download/confirmation.aspx?id=17851">.net framework4.0</a> and <a href = "https://www.microsoft.com/en-us/download/confirmation.aspx?id=23714">Microsoft XNA Game Studio 4.0</a> to run the game!
 
 You should try to catch the purple feather the pink feather and the white feather.
 
